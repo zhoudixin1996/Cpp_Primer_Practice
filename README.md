@@ -13,7 +13,7 @@
 
 ## 1.2. 环境
 
-- system: ubuntu 16.04
+- system: ubuntu 20.04
 - IDE: VS Code
 - compiler: g++
 
