@@ -1,10 +1,17 @@
-# Cpp Primer 学习
+- [1. Cpp Primer 学习](#1-cpp-primer-学习)
+  - [1.1. 简介](#11-简介)
+  - [1.2. 环境](#12-环境)
+  - [1.3. 目录](#13-目录)
+  - [1.4. 参考](#14-参考)
+  - [1.5. 参与贡献](#15-参与贡献)
 
-## 简介
+# 1. Cpp Primer 学习
+
+## 1.1. 简介
 
 《C++ Primer 中文版（第 5 版）》学习仓库，包括**笔记**和**课后练习答案**。
 
-## 环境
+## 1.2. 环境
 
 - system: ubuntu 16.04
 - IDE: VS Code
@@ -12,7 +19,7 @@
 
 [豆瓣链接](https://book.douban.com/subject/25708312/)
 
-## 目录
+## 1.3. 目录
 
 - 第1章 : 开始  [笔记](https://github.com/applenob/Cpp_Primer_Practice/tree/master/notes/ch01.md)  [练习](https://github.com/applenob/Cpp_Primer_Practice/tree/master/excersize/ch01.md)
 - 第 I 部分 : C++基础
@@ -38,11 +45,11 @@
   - 第18章 : 用于大型程序的工具  [笔记](https://github.com/applenob/Cpp_Primer_Practice/tree/master/notes/ch18.md)  [练习](https://github.com/applenob/Cpp_Primer_Practice/tree/master/excersize/ch18.md)
   - 第19章 : 特殊工具与技术  [笔记](https://github.com/applenob/Cpp_Primer_Practice/tree/master/notes/ch19.md)  [练习](https://github.com/applenob/Cpp_Primer_Practice/tree/master/excersize/ch19.md)
 
-## 参考
+## 1.4. 参考
 
 - [C++ Primer 5 Answers(C++11/14)](https://github.com/Mooophy/Cpp-Primer)
 - [《C++ Primer》第五版中文版习题答案](https://github.com/huangmingchuan/Cpp_Primer_Answers)
 
-## 参与贡献
+## 1.5. 参与贡献
 
 本仓库由多位小伙伴一起参与编写，欢迎大家对本仓库进行补充，一起帮大家更好地理解这本“大部头”。
